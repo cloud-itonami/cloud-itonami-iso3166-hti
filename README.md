@@ -57,7 +57,7 @@ official/secondary sources and honestly could not confirm this session):
   exclusions read directly from `cnmp.gouv.ht`) but did not locate the
   specific statutory article establishing it, an honestly-disclosed gap
   (see `marketentry.facts` docstring).
-- `src/statute/facts.cljc` -- general-law catalog: the same Loi du 10
+- `src/statute/facts.kotoba` -- general-law catalog: the same Loi du 10
   juin 2009 (also catalogued here as an ongoing compliance statute, not
   just a market-entry gate), and DGI's own NIF/Carte d'Identité Fiscale
   décret citations (with the internal date inconsistency flagged rather
@@ -83,7 +83,7 @@ This repo carries a **country-level regional-culture catalog**
 Wave 1, in `com-junkawasaki/root`) — national dishes, protected products,
 beverages, crafts, festivals and heritage sites for Haiti:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.kotoba` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring the fleet's `statute.facts` convention).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from

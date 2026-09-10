@@ -13,7 +13,7 @@
   (blacklist) directly on its own site. A category-specific seuil de
   passation (Art. 3/4/5/6) gates whether a formal Marché public applies
   at all -- a case-by-case APPLICABILITY GATE, not a competitive-tender
-  self-service registration system (see `src/marketentry/facts.cljc`)
+  self-service registration system (see `src/marketentry/facts.kotoba`)
 - Ministère du Commerce et de l'Industrie (MCI) Autorisation de
   Fonctionnement business registration -- required for a Société
   Anonyme to acquire legal existence (own official five-stage
